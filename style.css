@@ -5,12 +5,9 @@ body{
 .main {
 	position:absolute;
 	top: 20%;
-	left: 35%;
-	margin:auto;
-	width:30%;
 	background-color:lightgray;
 	padding:15px;
-	border-radius:4px;
+	border-radius:15px;
 }
 
 .button:hover{
